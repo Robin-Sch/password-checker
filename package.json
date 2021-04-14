@@ -1,0 +1,16 @@
+{
+  "name": "password-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Robin Schapendonk",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "zxcvbn": "^4.4.2"
+  }
+}
